@@ -28,7 +28,7 @@ Don't say we didn't warn you.
 
 Type `cmds` inside LARPOS for the full list. Highlights: `neofetch`, `nmap`, `doxx <name>`, `vpn`, `tor`, `opsec`, `hack`, `ping`, `feds`, `rm -rf /`.
 
-Warning: the feds may show up at random. Flashing red/blue lights and beeping. Photosensitive folks, maybe skip.
+Warning: the feds may show up in the terminalat random. Flashing red/blue lights and beeping. Photosensitive folks, maybe skip.
 
 ## Disclaimer
 
